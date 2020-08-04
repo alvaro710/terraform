@@ -1,4 +1,4 @@
-./terraform
+./terraform.exe
 
 # Local .terraform directories
 **/.terraform/*
